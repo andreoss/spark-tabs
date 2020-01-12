@@ -15,3 +15,5 @@ lazy val root = (project in file("."))
 libraryDependencies += "org.apache.spark" %% "spark-core" % "2.4.3"
 libraryDependencies += "org.apache.spark" %% "spark-sql" % "2.4.3"
 libraryDependencies += "org.eclipse.jetty" % "jetty-servlet" % "9.4.28.v20200408"
+libraryDependencies += "org.scalatestplus" %% "selenium-3-141" % "3.1.1.0" % "test"
+libraryDependencies += "org.apache.httpcomponents" % "httpclient" % "4.5.2"
