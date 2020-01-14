@@ -3,4 +3,4 @@
 
 Add extra tabs on Spark UI page (by violating its internal private API).
 
-![example](example.png "Example")
+![example](https://raw.githubusercontent.com/andreoss/spark-tabs/master/example.png "Example")
